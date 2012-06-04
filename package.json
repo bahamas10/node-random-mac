@@ -6,9 +6,14 @@
   "repository": {
     "url": "git://github.com/bahamas10/node-random-mac.git"
   },
+  "scripts": {
+    "test": "tap tests/*.js"
+  },
   "main": "index.js",
   "dependencies": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "tap": "~0.2.5"
+  },
   "optionalDependencies": {},
   "engines": {
     "node": "*"

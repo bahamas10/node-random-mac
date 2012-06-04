@@ -10,6 +10,7 @@
     "test": "tap tests/*.js"
   },
   "main": "index.js",
+  "license": "MIT",
   "dependencies": {},
   "devDependencies": {
     "tap": "~0.2.5"

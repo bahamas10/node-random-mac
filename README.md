@@ -25,6 +25,9 @@ undefined
 >
 ```
 
+    ~$ examples/random-mac.js
+    54:52:00:a3:c7:ab
+
 License
 =======
 

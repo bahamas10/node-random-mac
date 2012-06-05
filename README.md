@@ -1,7 +1,12 @@
 random-mac
 ==========
 
-Generate a random Mac Address.
+Generate a random Mac Address
+
+Install
+=======
+
+    npm install random-mac
 
 Usage
 =====

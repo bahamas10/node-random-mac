@@ -10,7 +10,7 @@ Install for local use as a module
 
     npm install random-mac
 
-Install globall to use the command line tool
+Install globally to use the command line tool
 
     npm install -g random-mac
 

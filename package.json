@@ -2,7 +2,7 @@
   "author": "Dave Eddy <dave@daveeddy.com> (http://www.daveeddy.com)",
   "name": "random-mac",
   "description": "Generate a random Mac Address",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/bahamas10/node-random-mac.git"
@@ -15,6 +15,9 @@
   "dependencies": {},
   "devDependencies": {
     "tap": "~0.2.5"
+  },
+  "bin": {
+    "random-mac": "./bin/random-mac.js"
   },
   "optionalDependencies": {},
   "engines": {

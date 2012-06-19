@@ -10,7 +10,7 @@ Install for local use as a module
 
     npm install random-mac
 
-Install globally to use the command line tool
+Install globally to use the command line tool random-mac(1)
 
     npm install -g random-mac
 
@@ -20,7 +20,7 @@ Usage
 module
 
 ``` js
-var randomMac = require('./random-mac');
+var randomMac = require('random-mac');
 ```
 
 command line
@@ -34,7 +34,7 @@ Example
 -------
 
 ``` js
-> var randomMac = require('./random-mac');
+> var randomMac = require('random-mac');
 undefined
 > randomMac()
 '54:52:00:2d:45:4b'

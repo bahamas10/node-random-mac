@@ -8,14 +8,11 @@
     "url": "git://github.com/bahamas10/node-random-mac.git"
   },
   "scripts": {
-    "test": "tap tests/*.js"
+    "test": "node tests/random-mac.js"
   },
   "main": "index.js",
   "license": "MIT",
   "dependencies": {},
-  "devDependencies": {
-    "tap": "~0.2.5"
-  },
   "bin": {
     "random-mac": "./bin/random-mac.js"
   },

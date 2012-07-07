@@ -19,5 +19,6 @@
   "optionalDependencies": {},
   "engines": {
     "node": "*"
-  }
+  },
+  "keywords": [ "random", "mac address", "mac" ]
 }

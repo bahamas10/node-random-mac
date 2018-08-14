@@ -20,5 +20,5 @@
   "engines": {
     "node": "*"
   },
-  "keywords": [ "random", "mac address", "mac" ]
+  "keywords": [ "random", "mac address", "mac", "generate", "generator" ]
 }
